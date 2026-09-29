@@ -1,0 +1,10 @@
+#-------------------------#
+#     Random Filenames    #
+#-------------------------#
+.DS_Store
+.vscodium/
+authentication.js
+node_modules
+notes/
+**/*-todo.md
+# blanks line
